@@ -1,6 +1,6 @@
 
 
-<img src="1.png" width="40%" alt="Poster promoting workshop" /> <img src="AEDU_Speakers.png" width="40%" alt="Speakers include Jason Yoder, Q. Tyrell Davis, Jean Alfonso-Decena, Imran Khan, and Anya Vostinar" />
+<a href="1.png"><img src="1.png" width="40%" alt="Poster promoting workshop" /></a> <a href="AEDU_Speakers.png"><img src="AEDU_Speakers.png" width="40%" alt="Speakers include Jason Yoder, Q. Tyrell Davis, Jean Alfonso-Decena, Imran Khan, and Anya Vostinar" /></a>
 
 # Register
 Fill out [this form to register](https://docs.google.com/forms/d/e/1FAIpQLSeQ-ngpkBxr58mm8rGCKmU9Dna8DVHER3gXP8aZ6n0YpuO77A/viewform)!
