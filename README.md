@@ -1,3 +1,15 @@
+
+
+<img src="1.png" width="40%" alt="Poster promoting workshop" /> <img src="AEDU_Speakers.png" width="40%" alt="Speakers include Jason Yoder, Q. Tyrell Davis, Jean Alfonso-Decena, Imran Khan, and Anya Vostinar" />
+
+# Register
+Fill out [this form to register](https://docs.google.com/forms/d/e/1FAIpQLSeQ-ngpkBxr58mm8rGCKmU9Dna8DVHER3gXP8aZ6n0YpuO77A/viewform)!
+
+# Dates
+There will be two two-day virtual workshops offered that are aimed at different timezones:
+* May 18-19, 10AM - 2PM Eastern US
+* May 25-26, 10AM - 2PM Japan
+
 # Overview
 Each two-day workshop explores fundamental questions about teaching Artificial Life.
 
@@ -21,5 +33,9 @@ Develop shared learning goals for ALife education and build a lasting community 
 # Format
 A virtual mix of presentations, discussions, and hands-on activities — designed to alternate between high- and low-interaction sessions with regular breaks throughout the day.
 
-# Register
-Fill out [this form to register](https://docs.google.com/forms/d/e/1FAIpQLSeQ-ngpkBxr58mm8rGCKmU9Dna8DVHER3gXP8aZ6n0YpuO77A/viewform)!
+# Speakers & Facilitators
+* Jason Yoder, Rose-Hulman Institute of Technology
+* Q. Tyrell Davis
+* Jean Alfonso-Decena, In Silence AI
+* Imran Khan, University of Warwick
+* Anya E. Vostinar, Carleton College
